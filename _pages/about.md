@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at Sciences Po paris, under the supervision of Alfred Galichon [Alfred Galichon](http://alfredgalichon.com/) (New York University and Sciences Po Paris). My research interests are in Labor and Computational Economics.
+I am a PhD candidate in Economics at Sciences Po paris, under the supervision of [Alfred Galichon](http://alfredgalichon.com/) (New York University and Sciences Po Paris). My research interests are in Labor and Computational Economics.
 
 Contact: pauline.corblet@sciencespo.fr
 
