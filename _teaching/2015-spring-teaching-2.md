@@ -1,15 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Economics and Statistics"
 collection: teaching
-type: "Workshop"
+type: "Tutoring"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "NYU Paris Campus"
+date: Spring 2019
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I tutor three students from NYU Paris who enrolled in economics and statistics classes at Sorbonne University. 
 
+<!--
 Heading 1
 ======
 
@@ -18,3 +19,4 @@ Heading 2
 
 Heading 3
 ======
+>--
