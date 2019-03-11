@@ -8,7 +8,7 @@ date: Fall 2018
 location: "Paris, France"
 ---
 
-I was a teaching assistant and course coordinator for the microeconomics course given by Prof. Eduardo Perez tp second year undergraduate students.
+I was a teaching assistant and course coordinator for the microeconomics course given by Prof. Eduardo Perez to second year undergraduate students.
 
 <!--
 Heading 1
