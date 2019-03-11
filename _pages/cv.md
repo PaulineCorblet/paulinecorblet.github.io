@@ -20,7 +20,7 @@ Work experience
 ======
 * June 2017 - June 2018: Analyst
   * Compass Lexecon
-  * Paris
+  * Supervisor: David Sévy
 
 * Spring 2015: Research Assistant
   * Sciences Po
