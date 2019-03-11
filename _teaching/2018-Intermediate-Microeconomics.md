@@ -2,7 +2,7 @@
 title: "Intermediate Microeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2018-Intermediate-Microeconomics
 venue: "Sciences Po Paris"
 date: Fall 2018
 location: "Paris, France"
@@ -19,4 +19,4 @@ Heading 2
 
 Heading 3
 ======
->--
+-->
