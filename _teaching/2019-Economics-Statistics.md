@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutoring"
 permalink: /teaching/2019-Economics-Statistics
 venue: "NYU Paris Campus"
-date: Spring 2019
+date: 2019-02-01
 location: "Paris, France"
 ---
 
