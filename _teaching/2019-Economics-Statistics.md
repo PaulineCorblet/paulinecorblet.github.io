@@ -2,7 +2,7 @@
 title: "Economics and Statistics"
 collection: teaching
 type: "Tutoring"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2019-Economics-Statistics
 venue: "NYU Paris Campus"
 date: Spring 2019
 location: "Paris, France"
@@ -19,4 +19,4 @@ Heading 2
 
 Heading 3
 ======
->--
+-->
