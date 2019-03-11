@@ -11,31 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, Sciences Po, 2021 (expected)
+* MRes in Economics, Sciences Po, 2017
+* MRes in Mathematics, Pierre and Marie Curie University, 2017
+* B.A. Sciences Po, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2017 - June 2018: Analyst
+  * Compass Lexecon
+  * Paris
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2015: Research Assistant
+  * Sciences Po
+  * Supervisor: Alfed Galichon
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* Stata
+* Latex
+* C++
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,3 +56,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+<--
