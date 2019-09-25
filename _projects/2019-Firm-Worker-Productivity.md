@@ -1,7 +1,7 @@
 ---
-title: "Intermediate Microeconomics"
+title: "Generational Inequality and Workers Complementarity"
 collection: project
-permalink: /publications/2019-Firm-Worker-Productivity
+permalink: /projects/2019-Firm-Worker-Productivity
 
 ---
 
