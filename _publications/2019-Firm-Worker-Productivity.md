@@ -1,7 +1,7 @@
 ---
 title: "Intermediate Microeconomics"
 collection: project
-permalink: /teaching/2019-Firm-Worker-Productivity
+permalink: /publications/2019-Firm-Worker-Productivity
 
 ---
 
