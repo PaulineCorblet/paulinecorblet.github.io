@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Research Interests ##
+
+## Education ##
+
 * Ph.D in Economics, Sciences Po, 2021 (expected)
 * MRes in Economics, Sciences Po, 2017
 * MRes in Mathematics, Pierre and Marie Curie University, 2017
 * B.A. Sciences Po, 2014
 
-Work experience
-======
+## Work experience ##
 
-Graduate Employment Survey coordinator
-------
+### Graduate Employment Survey coordinator ###
 * November 2018 - July 2019
 * Sciences Po Careers
 
@@ -35,8 +35,8 @@ Graduate Employment Survey coordinator
   * Sciences Po
   * Supervisor: Alfed Galichon
 
-Programming Skills
-======
+## Programming Skills ##
+
 * R
 * Python
 * Julia
