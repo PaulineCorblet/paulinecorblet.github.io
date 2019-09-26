@@ -18,6 +18,15 @@ Education
 
 Work experience
 ======
+
+Graduate Employment Survey coordinator
+------
+* November 2018 - July 2019
+* Sciences Po Careers
+
+* November 2018 - July 2019: Graduate Survey Coordinator
+  * Sciences Po Careers
+
 * June 2017 - June 2018: Analyst
   * Compass Lexecon
   * Supervisor: David Sévy
@@ -25,11 +34,12 @@ Work experience
 * Spring 2015: Research Assistant
   * Sciences Po
   * Supervisor: Alfed Galichon
-  
+
 Programming Skills
 ======
 * R
 * Python
+* Julia
+* C++
 * Stata
 * Latex
-* C++
