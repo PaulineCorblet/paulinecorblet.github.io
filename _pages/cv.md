@@ -17,7 +17,7 @@ Search and Matching, Labor, Optimal Transport, Multinomial choice, Computational
 
 * Ph.D in Economics, Sciences Po, 2021 (expected)
 * MRes in Economics, Sciences Po, 2017
-* MRes in Mathematics, Pierre and Marie Curie University, 2017
+* MRes in Mathematics, Sorbonne University, 2017
 * B.A. Sciences Po, 2014
 
 ## Work experience ##
