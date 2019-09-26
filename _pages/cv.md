@@ -11,6 +11,8 @@ redirect_from:
 
 ## Research Interests ##
 
+Search and Matching, Labor, Optimal Transport, Multinomial choice, Computational economics
+
 ## Education ##
 
 * Ph.D in Economics, Sciences Po, 2021 (expected)
@@ -20,18 +22,14 @@ redirect_from:
 
 ## Work experience ##
 
-### Graduate Employment Survey coordinator ###
-* November 2018 - July 2019
-* Sciences Po Careers
-
-* November 2018 - July 2019: Graduate Survey Coordinator
+* *November 2018 - July 2019*: Graduate Survey Coordinator
   * Sciences Po Careers
 
-* June 2017 - June 2018: Analyst
+* *June 2017 - June 2018*: Analyst
   * Compass Lexecon
   * Supervisor: David Sévy
 
-* Spring 2015: Research Assistant
+* *Spring 2015*: Research Assistant
   * Sciences Po
   * Supervisor: Alfed Galichon
 
