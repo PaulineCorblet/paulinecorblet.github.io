@@ -20,6 +20,10 @@ Search and Matching, Labor, Optimal Transport, Multinomial choice, Computational
 * MRes in Mathematics, Sorbonne University, 2017
 * B.A. Sciences Po, 2014
 
+## Talks ##
+* *2019*: LPSM seminar (Probability and Statistics department, Sorbonne), Sciences Po PhD seminar, Sciences Po Friday seminar (expected)
+* *2018*: Sciences Po PhD seminar
+
 ## Work experience ##
 
 * *November 2018 - July 2019*: Graduate Survey Coordinator
@@ -29,9 +33,9 @@ Search and Matching, Labor, Optimal Transport, Multinomial choice, Computational
   * Compass Lexecon
   * Supervisor: David Sévy
 
-* *Spring 2015*: Research Assistant
+* *February 2015 - July 2015*: Research Assistant
   * Sciences Po
-  * Supervisor: Alfed Galichon
+  * Supervisor: Alfred Galichon
 
 ## Programming Skills ##
 
