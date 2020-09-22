@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Paris, France"
 ---
 
-Teaching assistant and course coordinator for the microeconomics course given by Prof. Eduardo Perez to second year undergraduate students.
+Student instructor and course coordinator for the microeconomics course given by Prof. Eduardo Perez to second year undergraduate students.
 
 <!--
 Heading 1
