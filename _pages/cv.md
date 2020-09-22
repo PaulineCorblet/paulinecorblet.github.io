@@ -21,7 +21,8 @@ Search and Matching, Labor, Optimal Transport, Multinomial choice, Computational
 * B.A. Sciences Po, 2014
 
 ## Talks ##
-* *2019*: LPSM seminar (Probability and Statistics department, Sorbonne), Sciences Po PhD seminar, Sciences Po Friday seminar (expected)
+* *2020*: Sciences Po Friday seminar, INRIA workshop on entropic optimal transport, CEREQ workshop ‘Enquêtes Générations’
+* *2019*: LPSM seminar (Probability and Statistics department, Sorbonne), Sciences Po PhD seminar, Sciences Po Friday seminar, CEREQ workshop ‘Enquêtes Générations’
 * *2018*: Sciences Po PhD seminar
 
 ## Work experience ##
