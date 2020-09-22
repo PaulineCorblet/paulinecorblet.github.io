@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my CV [here](https://paulinecorblet.github.io/pdf/pcorblet_CV.pdf)
+
 ## Research Interests ##
 
 Search and Matching, Labor, Optimal Transport, Multinomial choice, Computational economics
