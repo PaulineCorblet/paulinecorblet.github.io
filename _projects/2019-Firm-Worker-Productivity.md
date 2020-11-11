@@ -1,8 +1,0 @@
----
-title: "Generational Inequality and Workers Complementarity"
-collection: project
-permalink: /projects/2019-Firm-Worker-Productivity
-
----
-
-Using Portuguese matched employer employee data, I highlight unequal returns to education by cohort on the labor market. To account for this generational inequality, I build a matching model of worker complementarity within firms.
