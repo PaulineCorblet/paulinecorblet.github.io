@@ -19,7 +19,7 @@ With Jeremy Fox and Alfred Galichon.
 
 In this paper we present a model of dynamic two-sided matching where the types of agents are subject to Markov transitions which are affected by the agent's current match. Our model is therefore a two-sided analog of Rust's model of dynamic discrete choice. We work out the equilibrium equation in thefinite and infinite horizon cases and we investigate stationarity.
 
-# Decreasing Returns to Experience in France: an Occupational Analysis #
+## Decreasing Returns to Experience in France: an Occupational Analysis ##
 
 This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French).
 
