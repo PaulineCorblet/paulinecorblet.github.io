@@ -1,8 +1,8 @@
 ---
-title: "A dynamic Model of Two-sided Matching"
+title: "A Dynamic Model of Two-sided Matching"
 collection: project
 permalink: /projects/02-dynamic-matching
-
+date: 2020-11-10
 ---
 With Jeremy Fox and Alfred Galichon
 
