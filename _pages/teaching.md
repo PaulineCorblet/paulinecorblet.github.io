@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Graduate - Econometrics 2 ##
+*Spring 2021, Sciences Po Paris*
+
+Teaching assistant and student instructor for the econometrics course given by Prof. Moshe Buchinsky to first year graduate students.
+
 ## Graduate - Macroeconomics 1 ##
 *Fall 2020, Sciences Po Paris*
 
