@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Education Expansion, Technological Change, and the Decreasing Wage Premium ##
+## Education Expansion, Sorting, and the Decreasing Wage Premium ##
 
-The wage gap between educated and uneducated workers has grown quickly in the 1970s and the 1980s in the US, despite the uninterrupted rise in the relative supply of educated workers. Since the 2000s however, the education wage premium has stagnated in many western economies. I examine the heterogeneity of the graduate wage premium evolution to age, as its decrease is particularly sharp for young workers. I investigate three channels to explain this decrease: the rise of the educated workers relative supply, changes in demand brought by technological change, and sorting between workers and firms. To do so, I build a model of one-to-many matching, which uses the most recent advances in matching theory and computational matching to make predictions both on wages and matching. The model affords flexibility in identification that lets me estimate sorting between workers and firms as well as varying elasticities of substitution over time. I estimate the model on Portuguese administrative data and I find evidence of skill-biased technological change that has increased the demand for educated workers. However the magnitude of technological change varies by industry, and I find that young educated workers favor industries where technological change is most modest.
+This paper studies the interplay between education expansion and workers and firms sorting in Portugal between 1987 and 2017. The Portuguese labor market is characterized by three facts: a decreasing high school wage premium, a dramatic increase in supply of high school graduates, and an increasingly unbalanced distribution of high school graduates across industries. To quantify the impact of the latter two on the former, I build a model of one-to-many matching where workers sort with firms based on their own preferences, their relative productivity within the firm, and substitution patterns with other workers. Using tool from the optimal transport literature, I solve the model and structurally estimate it on matched employer-employee data. Estimates suggest changes in sorting are mainly driven by heterogeneous increase in relative productivity of high school graduates relative to non graduates across industries. It acts as a mitigating force on the decreasing high school wage premium, but does not fully compensate for high school graduates' rise in relative supply.     
 
 The data was kindly provided by the Instituto Nacional de Estatistica with the help of Francesco Franco at Nova SBE in Lisbon.
 
@@ -24,6 +24,9 @@ prices takes place. We discuss a full equilibrium with time-varying distribution
 show that a stationary equilibrium exists. We propose two algorithms to compute a stationary
 equilibrium and show how to modify the algorithms for estimation. We estimate a model of
 geographic mobility by Swedish engineers.
+
+[Slides](https://paulinecorblet.github.io/pdf/DynamicMatchingSlides.pdf)
+
 
 ## Decreasing Returns to Experience in France: an Occupational Analysis ##
 
