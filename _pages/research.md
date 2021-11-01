@@ -18,6 +18,8 @@ The data was kindly provided by the Instituto Nacional de Estatistica with the h
 
 With Jeremy Fox and Alfred Galichon.
 
+[Slides](https://paulinecorblet.github.io/pdf/DynamicMatchingSlides.pdf)
+
 We introduce a model of dynamic matching with transferable utility. Agents have individual
 states that evolve with current matches. Each period, a matching market with market-clearing
 prices takes place. We discuss a full equilibrium with time-varying distributions of agent types and
@@ -25,11 +27,10 @@ show that a stationary equilibrium exists. We propose two algorithms to compute 
 equilibrium and show how to modify the algorithms for estimation. We estimate a model of
 geographic mobility by Swedish engineers.
 
-[Slides](https://paulinecorblet.github.io/pdf/DynamicMatchingSlides.pdf)
-
-
-## Decreasing Returns to Experience in France: an Occupational Analysis ##
+## Decreasing Returns to Experience for higher education graduates in France: an Occupational Analysis ##
 
 This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French).
+
+[Draft](https://paulinecorblet.github.io/pdf/CEREQUnequalReturntoExp.pdf)
 
 Thanks to detailed survey data provided by CEREQ (Enquêtes Générations) that covers young French workers' early career, I highlight a slow down in university educated workers' wage growth. This slow down can be broken down in two separate margins over the space of occupations: an extensive margin, by which the share of workers in occupations that feature a steep wage increase has fallen down, and an intensive margin, by which wage progression within occupations has flattened out for younger cohorts. I am able to quantitatively estimate these two margins and establish the intensive margin is the main driver of wage growth slowing down. Finally, I explore two mechanisms, access to management level posts and skill mismatch, and am able to show they contribute to a decrease in wage growth within occupations.      
