@@ -13,6 +13,8 @@ This paper studies the interplay between education expansion and workers and fir
 
 The data was kindly provided by the Instituto Nacional de Estatistica with the help of Francesco Franco at Nova SBE in Lisbon.
 
+[Draft](https://paulinecorblet.github.io/pdf/JMP.pdf)
+
 
 ## Repeated Matching Games: an Empirical Framework ##
 
