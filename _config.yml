@@ -84,7 +84,7 @@ author:
   name             : "Pauline Corblet"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Economics"
-  location         : "Paris, France"
+  location         : "Sciences Po Paris, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  code:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -189,6 +189,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -229,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _code
   - scope:
       path: ""
-      type: portfolio
+      type: code
     values:
       layout: single
       author_profile: true
