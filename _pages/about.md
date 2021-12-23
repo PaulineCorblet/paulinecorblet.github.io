@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at Sciences Po Paris, under the supervision of [Alfred Galichon](http://alfredgalichon.com/) (New York University and Sciences Po Paris). My research interests are in labor economics, search and matching models and structural econometrics.
 
-I am on the job market and will be available for interview at the European Job Market December on 15-18 2021, and at the AEA meetings on January 7-9 2022. You can find my job market paper [here](https://paulinecorblet.github.io/pdf/JMP.pdf).
+I am on the job market and will be available for interview at the European Job Market December on 15-18 2021, and at the AEA meetings on January 7-9 2022. You can find my job market paper [here](https://paulinecorblet.github.io/pdf/JMP.pdf). My references are Alfred Galichon, Jean-Marc Robin and Moshe Buchinsky.
 
 Contact:
 * pauline.corblet@sciencespo.fr
