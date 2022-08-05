@@ -33,10 +33,10 @@ geographic mobility by Swedish engineers.
 
 [Slides](https://paulinecorblet.github.io/pdf/DynamicMatchingSlides.pdf)
 
-## Decreasing Returns to Experience for higher education graduates in France: an Occupational Analysis ##
+## The Decreasing Returns to Experience for Higher Education Graduates: an Occupational Analysis ##
 
 This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French).
 
-Thanks to detailed survey data provided by CEREQ (Enquêtes Générations) that covers young French workers' early career, I highlight a slow down in university educated workers' wage growth. This slow down can be broken down in two separate margins over the space of occupations: an extensive margin, by which the share of workers in occupations that feature a steep wage increase has fallen down, and an intensive margin, by which wage progression within occupations has flattened out for younger cohorts. I am able to quantitatively estimate these two margins and establish the intensive margin is the main driver of wage growth slowing down. Finally, I explore two mechanisms, access to management level posts and skill mismatch, and am able to show they contribute to a decrease in wage growth within occupations.      
+This article evidences the flattening of wage dynamics for higher education graduates in France between the cohorts entering the labor market in 1998 versus 2010. Postgraduates in the latter cohorts enjoy 10% less labor income over their first seven years on the labor market than postgraduates in the former cohort. The difference in average yearly wage growth is 2.2 percentage points between the two cohorts. I decompose variations in wage growth between cohorts by occupation, and find a strong relation between the influx of new graduates in an occupation and the flattening of wage progression in that same occupation, suggesting congestion is causing the flattening. I show two mechanisms are at play behind congestion: access to managerial positions, which reduced over time, and field of study-occupation mismatch, which bears an increasing weight on young graduates' wages over time.     
 
 [Draft](https://paulinecorblet.github.io/pdf/CEREQUnequalReturntoExp.pdf)
