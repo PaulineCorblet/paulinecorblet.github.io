@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I defended my Ph.D in May 2022 at Sciences Po Paris, under the supervision of [Alfred Galichon](http://alfredgalichon.com/). My research interests are in labor economics, search and matching models and structural econometrics.
+I am a postdoctoral researcher at the University of Luxembourg. My research interests are in labor, education and matching theory.
 
-I will start a postdoctoral contract at the University of Luxembourg in the Fall 2022, before joining NYU Abu Dhabi as an Assistant Professor.
+I will join NYU Abu Dhabi in the Fall 2022 as assistant professor.
 
 Contact:
 * pauline.corblet@sciencespo.fr
-* 28 Rue des Saint-Pères, 75007, Paris, France
+* Office G-212, 6 Rue Richard Coudenhove-Kalergi, 1359 Luxembourg
 
 My CV is available [here](https://paulinecorblet.github.io/pdf/pcorblet_CV.pdf).
 
