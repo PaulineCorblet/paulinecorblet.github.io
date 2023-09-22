@@ -33,4 +33,4 @@ This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le
 With Jeremy Fox and Alfred Galichon.
 
 ### Late Bloomers? The Implications of Getting Education Later in Life ###
-With Zsófia Bárány and Moshe Buchinsky. *DRAFT COMING SOON	*
+With Zsófia Bárány and Moshe Buchinsky. DRAFT COMING SOON	
