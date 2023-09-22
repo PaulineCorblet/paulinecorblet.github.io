@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Luxembourg. My research interests are in labor, education and matching theory.
-
-I will join NYU Abu Dhabi in the Fall 2022 as assistant professor.
+I am an Assistant Professor at NYU Abu Dhabi. My research interests are in labor, education and matching theory.
 
 Contact:
-* pauline.corblet@sciencespo.fr
-* Office G-212, 6 Rue Richard Coudenhove-Kalergi, 1359 Luxembourg
+* pauline.corblet@nyu.edu
+* Office A5-199, New York University, Saadiyat Island, Abu Dhabi, UAE
 
 My CV is available [here](https://paulinecorblet.github.io/pdf/pcorblet_CV.pdf).
 
