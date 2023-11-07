@@ -9,6 +9,14 @@ author_profile: true
 
 ## Working Papers ##
 
+### Late Bloomers? The Aggregate Implications of Getting Education Later in Life ###
+With Zsófia Bárány and Moshe Buchinsky.	
+
+[CEPR Discussion Paper](https://cepr.org/publications/dp18579)
+
+<font size="3">It is generally agreed upon that most individuals who acquire a college degree do so in their early 20s. Despite this consensus, we show that in the US from the 1930 birth cohort onwards a large fraction – around 20% – of college graduates obtained their degree after age 30. We explore the implications of this phenomenon. First, we show that these so called late bloomers have significantly contributed to
+the narrowing of gender and racial gaps in the college share, despite the general widening of the racial gap. Second, late bloomers are responsible for more than half of the increase in the aggregate college share from 1960 onwards. Finally, we show that the returns to having a college degree vary depending on the age at graduation. Ignoring the existence of late bloomers therefore leads to a significant underestimation of the returns to college education for those finishing college in their early 20s. </font> 
+
 ### Education Expansion, Sorting, and the Decreasing Wage Premium ###
 
 [Draft](https://paulinecorblet.github.io/pdf/JMP.pdf)
@@ -22,7 +30,6 @@ The data was kindly provided by the Instituto Nacional de Estatistica with the h
 
 [New Draft!](https://paulinecorblet.github.io/pdf/FlatteningReturns.pdf)
 
-
 <font size="3"> This article evidences the flattening of wage dynamics for higher education graduates in France between the cohorts entering the labor market in 1998 versus 2010. Postgraduates in the latter cohorts enjoy 10% less labor income over their first seven years on the labor market than postgraduates in the former cohort. The difference in average yearly wage growth is 2.2 percentage points between the two cohorts. I decompose variations in wage growth between cohorts by occupation, and find a strong relation between the influx of new graduates in an occupation and the flattening of wage progression in that same occupation, suggesting congestion is causing the flattening. I show two mechanisms are at play behind congestion: access to managerial positions, which reduced over time, and field of study-occupation mismatch, which bears an increasing weight on young graduates' wages over time.   </font>    
 
 This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French).
@@ -32,5 +39,3 @@ This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le
 ### Repeated Matching Games: an Empirical Framework ### 
 With Jeremy Fox and Alfred Galichon.
 
-### Late Bloomers? The Implications of Getting Education Later in Life ###
-With Zsófia Bárány and Moshe Buchinsky. DRAFT COMING SOON	
