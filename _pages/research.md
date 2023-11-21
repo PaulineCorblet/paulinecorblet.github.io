@@ -9,10 +9,16 @@ author_profile: true
 
 ## Working Papers ##
 
+
+[Late Bloomers? the Aggregate Implications of Getting Education Later in Life](https://paulinecorblet.github.io/pdf/BaranyBuchinskyCorblet_latebloomers.pdf) With Zsófia Bárány and Moshe Buchinsky
+CEPR Discussion Paper, DP18579
+NBER Working Paper 31874
+
+<!-- 
 ### Late Bloomers? The Aggregate Implications of Getting Education Later in Life ###
 With Zsófia Bárány and Moshe Buchinsky.	
 
-[CEPR Discussion Paper](https://cepr.org/publications/dp18579)
+[CEPR Discussion Paper](https://cepr.org/publications/dp18579) -->
 
 <font size="3">It is generally agreed upon that most individuals who acquire a college degree do so in their early 20s. Despite this consensus, we show that in the US from the 1930 birth cohort onwards a large fraction – around 20% – of college graduates obtained their degree after age 30. We explore the implications of this phenomenon. First, we show that these so called late bloomers have significantly contributed to
 the narrowing of gender and racial gaps in the college share, despite the general widening of the racial gap. Second, late bloomers are responsible for more than half of the increase in the aggregate college share from 1960 onwards. Finally, we show that the returns to having a college degree vary depending on the age at graduation. Ignoring the existence of late bloomers therefore leads to a significant underestimation of the returns to college education for those finishing college in their early 20s. </font> 
