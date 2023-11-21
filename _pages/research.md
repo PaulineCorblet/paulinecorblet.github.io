@@ -25,7 +25,7 @@ This paper has received the ‘Honorable Mention' Award at the 2022 IAAE Confere
 
 The data was kindly provided by the Instituto Nacional de Estatistica with the help of Francesco Franco at Nova SBE in Lisbon.
 
-[The Decreasing Returns to Experience for Higher Education Graduates: an Occupational Analysis](https://paulinecorblet.github.io/pdf/FlatteningReturns.pdf)<b style="color: blue;"> New Draft<b/> 
+[The Decreasing Returns to Experience for Higher Education Graduates: an Occupational Analysis](https://paulinecorblet.github.io/pdf/FlatteningReturns.pdf)<b style="color: 188691;"> New Draft<b/> 
 
 <font size="3"> This article evidences the flattening of wage dynamics for higher education graduates in France between the cohorts entering the labor market in 1998 versus 2010. Postgraduates in the latter cohorts enjoy 10% less labor income over their first seven years on the labor market than postgraduates in the former cohort. The difference in average yearly wage growth is 2.2 percentage points between the two cohorts. I decompose variations in wage growth between cohorts by occupation, and find a strong relation between the influx of new graduates in an occupation and the flattening of wage progression in that same occupation, suggesting congestion is causing the flattening. I show two mechanisms are at play behind congestion: access to managerial positions, which reduced over time, and field of study-occupation mismatch, which bears an increasing weight on young graduates' wages over time.   </font>    
 
@@ -35,4 +35,4 @@ This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le
 
 Repeated Matching Games: an Empirical Framework, with Jeremy Fox and Alfred Galichon
 
-Sorting and the Gender PAy Gap, with Arnaud Dupuy and Simon Weber
+Sorting and the Gender Pay Gap, with Arnaud Dupuy and Simon Weber
