@@ -35,4 +35,4 @@ This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le
 
 Repeated Matching Games: an Empirical Framework, with Jeremy Fox and Alfred Galichon
 
-Sorting and the Gender Pay Gap, with Arnaud Dupuy and Simon Weber
+On the Estimation of Scaling parameters in Separable Matching Models, with Arnaud Dupuy
