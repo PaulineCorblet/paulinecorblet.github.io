@@ -9,7 +9,8 @@ author_profile: true
 
 ## Working Papers ##
 
-[Higher-Educated Workers' Flattening Returns to Experience](https://paulinecorblet.github.io/pdf/FlatteningReturns.pdf)<b style="color: 188691;">, 2024<b/> 
+[Higher-Educated Workers' Flattening Returns to Experience](https://paulinecorblet.github.io/pdf/FlatteningReturns.pdf), 2024
+
 [On SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246)
 
 <font size="3"> This paper documents the labor-earning trajectories of young workers in France since the early 1990s. Wages at labor market entry increase overall, but the higher education graduates' wage growth flattens across cohorts. The paper proposes an equilibrium model of human capital accumulation over the life cycle in which a representative firm requires labor in two different occupations, routine and complex. The complex occupation allows faster human capital accumulation. Workers sort into occupations based on initial human capital and ability to learn. The model is estimated using observed wage moments and occupation sorting over thirty years. Estimation results highlight the role of the French higher education expansion of the 1990s and 2000s in causing occupational congestion, whereby the share of higher education graduates employed in routine occupations rose, flattening their wage profiles.  </font>    
@@ -17,6 +18,7 @@ author_profile: true
 This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French).
 
 [Late Bloomers? the Aggregate Implications of Getting Education Later in Life](https://paulinecorblet.github.io/pdf/BaranyBuchinskyCorblet_latebloomers.pdf) With Zsófia Bárány and Moshe Buchinsky, 2024
+
 CEPR Discussion Paper, DP18579
 [NBER Working Paper 31874](https://www.nber.org/papers/w31874)
 
