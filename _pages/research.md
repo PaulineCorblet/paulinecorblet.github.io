@@ -9,6 +9,11 @@ author_profile: true
 
 ## Working Papers ##
 
+[Higher-Educated Workers' Flattening Returns to Experience](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246)<b style="color: 188691;"> New Draft<b/> 
+
+<font size="3"> This paper documents the labor-earning trajectories of young workers in France since the early 1990s. Wages at labor market entry increase overall, but the higher education graduates' wage growth flattens across cohorts. The paper proposes an equilibrium model of human capital accumulation over the life cycle in which a representative firm requires labor in two different occupations, routine and complex. The complex occupation allows faster human capital accumulation. Workers sort into occupations based on initial human capital and ability to learn. The model is estimated using observed wage moments and occupation sorting over thirty years. Estimation results highlight the role of the French higher education expansion of the 1990s and 2000s in causing occupational congestion, whereby the share of higher education graduates employed in routine occupations rose, flattening their wage profiles.  </font>    
+
+This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French).
 
 [Late Bloomers? the Aggregate Implications of Getting Education Later in Life](https://paulinecorblet.github.io/pdf/BaranyBuchinskyCorblet_latebloomers.pdf) With Zsófia Bárány and Moshe Buchinsky
 CEPR Discussion Paper, DP18579
@@ -25,11 +30,6 @@ This paper has received the ‘Honorable Mention' Award at the 2022 IAAE Confere
 
 The data was kindly provided by the Instituto Nacional de Estatistica with the help of Francesco Franco at Nova SBE in Lisbon.
 
-[The Decreasing Returns to Experience for Higher Education Graduates: an Occupational Analysis](https://paulinecorblet.github.io/pdf/FlatteningReturns.pdf)<b style="color: 188691;"> New Draft<b/> 
-
-<font size="3"> This article evidences the flattening of wage dynamics for higher education graduates in France between the cohorts entering the labor market in 1998 versus 2010. Postgraduates in the latter cohorts enjoy 10% less labor income over their first seven years on the labor market than postgraduates in the former cohort. The difference in average yearly wage growth is 2.2 percentage points between the two cohorts. I decompose variations in wage growth between cohorts by occupation, and find a strong relation between the influx of new graduates in an occupation and the flattening of wage progression in that same occupation, suggesting congestion is causing the flattening. I show two mechanisms are at play behind congestion: access to managerial positions, which reduced over time, and field of study-occupation mismatch, which bears an increasing weight on young graduates' wages over time.   </font>    
-
-This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French).
 
 ## Work in Progress ##
 
