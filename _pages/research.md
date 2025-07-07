@@ -11,7 +11,7 @@ author_profile: true
 
 **Education, Sorting and Wages: A Structural Matching Approach**, 2025,
 [New Version](https://paulinecorblet.github.io/pdf/JMP.pdf) 
-<font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font>    -->
+<font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font>
 
 **Modeling Monospony on the Labor Market with Separable Matching Models**, With Arnaud Dupuy, 2024,
 [IZA DP No. 17563](https://docs.iza.org/dp17563.pdf)
