@@ -16,7 +16,7 @@ Contact:
 
 My CV is available [here](https://paulinecorblet.github.io/pdf/pcorblet_CV.pdf).
 
-[**NEW draft**](https://paulinecorblet.github.io/pdf/Repeated_Matching_Games___MERGED.pdf)**Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon
+[**NEW draft**](https://paulinecorblet.github.io/pdf/Repeated_Matching_Games___MERGED.pdf) for **Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon
 
 Check out our [NonLinearProg](https://github.com/PaulineCorblet/NonLinearProg) package in Julia!
 
