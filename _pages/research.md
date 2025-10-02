@@ -9,6 +9,8 @@ author_profile: true
 
 ## Working Papers ##
 
+**Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon, 2025, [New](https://paulinecorblet.github.io/pdf/Repeated_Matching_Games___MERGED.pdf)
+
 **Education, Sorting and Wages: A Structural Matching Approach**, 2025,
 [New Version](https://paulinecorblet.github.io/pdf/JMP.pdf) 
 <font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font>
@@ -37,8 +39,9 @@ the narrowing of gender and racial gaps in the college share, despite the genera
 <font size="3"> This paper has received the ‘Honorable Mention' Award at the 2022 IAAE Conference.
 The data was kindly provided by the Instituto Nacional de Estatistica with the help of Francesco Franco at Nova SBE in Lisbon. </font>  -->
 
-## Work in Progress ##
 
-Repeated Matching Games: an Empirical Framework, with Jeremy Fox and Alfred Galichon
+
+
+## Work in Progress ##
 
 Multi-sided Matching with Transfers: The Economics of Love and Labor, with Alejandro Robinson Cortes
