@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers ##
 
-**Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon, 2025, [New](https://paulinecorblet.github.io/pdf/Repeated_Matching_Games___MERGED.pdf)
+**Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon, 2025, [Arxiv](https://urldefense.proofpoint.com/v2/url?u=http-3A__arxiv.org_abs_2510.02737&d=DwIBaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=Uuq84L5qrCzjIkr897kGKPURHU3TTNapqENssxQZ5fo&m=cq5w6REVrPBXm9uoXh29qCfk2bW1vvMo0VoTAhrvriucpxTvyPO2kKIBNeqoP_Tj&s=x7dUN0UtTrPyQfRY2uvc8eIQ-EJ3e1xctSz4xrvs-to&e=)
 
 **Education, Sorting and Wages: A Structural Matching Approach**, 2025,
 [New Version](https://paulinecorblet.github.io/pdf/JMP.pdf) 
