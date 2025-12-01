@@ -13,7 +13,8 @@ author_profile: true
 
 **Education, Sorting and Wages: A Structural Matching Approach**, 2025,
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5396926) 
-<font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font>
+
+<!-- <font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font> -->
 
 **Modeling Monospony on the Labor Market with Separable Matching Models**, With Arnaud Dupuy, 2024,
 [IZA DP No. 17563](https://docs.iza.org/dp17563.pdf)
@@ -45,3 +46,7 @@ The data was kindly provided by the Instituto Nacional de Estatistica with the h
 ## Work in Progress ##
 
 Multi-sided Matching with Transfers: The Economics of Love and Labor, with Alejandro Robinson Cortes
+
+The Muslim Wage Penalty, with Wifag Adnan and Dima ElHariri
+
+Gender Differences in Promotion Rates, with Wifag Adnan, Bedoor AlShebli, and Shehryar Subhani
