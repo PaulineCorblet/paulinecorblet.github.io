@@ -9,9 +9,9 @@ author_profile: true
 
 ## Working Papers ##
 
-**Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon, 2025, [NBER Working Paper 34352](https://www.nber.org/papers/w34352) [Arxiv](https://urldefense.proofpoint.com/v2/url?u=http-3A__arxiv.org_abs_2510.02737&d=DwIBaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=Uuq84L5qrCzjIkr897kGKPURHU3TTNapqENssxQZ5fo&m=cq5w6REVrPBXm9uoXh29qCfk2bW1vvMo0VoTAhrvriucpxTvyPO2kKIBNeqoP_Tj&s=x7dUN0UtTrPyQfRY2uvc8eIQ-EJ3e1xctSz4xrvs-to&e=) 
+**Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon, *R&R Econometrica*, [NBER Working Paper 34352](https://www.nber.org/papers/w34352) [Arxiv](https://urldefense.proofpoint.com/v2/url?u=http-3A__arxiv.org_abs_2510.02737&d=DwIBaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=Uuq84L5qrCzjIkr897kGKPURHU3TTNapqENssxQZ5fo&m=cq5w6REVrPBXm9uoXh29qCfk2bW1vvMo0VoTAhrvriucpxTvyPO2kKIBNeqoP_Tj&s=x7dUN0UtTrPyQfRY2uvc8eIQ-EJ3e1xctSz4xrvs-to&e=) 
 
-**Education, Sorting and Wages: A Structural Matching Approach**, 2025,
+**Education, Sorting and Wages: A Structural Matching Approach**,
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5396926) 
 
 <!-- <font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font> -->
@@ -19,7 +19,7 @@ author_profile: true
 **Modeling Monospony on the Labor Market with Separable Matching Models**, With Arnaud Dupuy, 2024,
 [IZA DP No. 17563](https://docs.iza.org/dp17563.pdf)
 
-**Higher-Educated Workers' Flattening Returns to Experience**, 2024, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246)
+**Higher-Educated Workers' Flattening Returns to Experience**, *R&R Journal of Human Capital*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246)
 
 <!-- <font size="3"> This paper documents the labor-earning trajectories of young workers in France since the early 1990s. Wages at labor market entry increase overall, but the higher education graduates' wage growth flattens across cohorts. The paper proposes an equilibrium model of human capital accumulation over the life cycle in which a representative firm requires labor in two different occupations, routine and complex. The complex occupation allows faster human capital accumulation. Workers sort into occupations based on initial human capital and ability to learn. The model is estimated using observed wage moments and occupation sorting over thirty years. Estimation results highlight the role of the French higher education expansion of the 1990s and 2000s in causing occupational congestion, whereby the share of higher education graduates employed in routine occupations rose, flattening their wage profiles.  </font>     -->
 
