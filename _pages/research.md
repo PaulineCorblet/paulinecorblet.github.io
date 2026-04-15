@@ -16,7 +16,7 @@ author_profile: true
 
 <!-- <font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font> -->
 
-**Modeling Monospony on the Labor Market with Separable Matching Models**, With Arnaud Dupuy, 2024,
+**Modeling Monospony on the Labor Market with Separable Matching Models**, With Arnaud Dupuy, *R&R Journal of Applied Econometricss*
 [IZA DP No. 17563](https://docs.iza.org/dp17563.pdf)
 
 **Higher-Educated Workers' Flattening Returns to Experience**, *R&R Journal of Human Capital*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246)
@@ -25,7 +25,7 @@ author_profile: true
 
 <!-- This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French). -->
 
-**Late Bloomers? The Aggregate Implications of Getting Education Later in Life**, With Zsófia Bárány and Moshe Buchinsky, 2024,
+**Late Bloomers? The Aggregate Implications of Getting Education Later in Life**, With Zsófia Bárány and Moshe Buchinsky,
 [CEPR Discussion Paper DP18579](https://cepr.org/publications/dp18579)
 [NBER Working Paper 31874](https://www.nber.org/papers/w31874)
 
