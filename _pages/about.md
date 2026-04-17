@@ -16,7 +16,7 @@ Contact:
 
 My CV is available [here](https://paulinecorblet.github.io/pdf/pcorblet_CV.pdf).
 
-[**NEW draft**](https://urldefense.proofpoint.com/v2/url?u=http-3A__arxiv.org_abs_2510.02737&d=DwIBaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=Uuq84L5qrCzjIkr897kGKPURHU3TTNapqENssxQZ5fo&m=cq5w6REVrPBXm9uoXh29qCfk2bW1vvMo0VoTAhrvriucpxTvyPO2kKIBNeqoP_Tj&s=x7dUN0UtTrPyQfRY2uvc8eIQ-EJ3e1xctSz4xrvs-to&e=) for **Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon
+[**NEW draft**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246) for **Higher-Educated Workers' Flattening Returns to Experience** 
 
 Check out our [SeparableMatchingEstim](https://github.com/PaulineCorblet/SeparableMatchingEstim) package in Julia!
 
