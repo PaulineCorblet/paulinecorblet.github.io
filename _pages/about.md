@@ -16,6 +16,8 @@ Contact:
 
 My CV is available [here](https://paulinecorblet.github.io/pdf/pcorblet_CV.pdf).
 
+**We are hiring at NYUAD** Check out our two AP positions in [Economics](https://apply.interfolio.com/196196) and [Economics and Computational Social Science](https://apply.interfolio.com/196753).
+
 [**NEW draft**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246) for **Higher-Educated Workers' Flattening Returns to Experience** 
 
 Check out our [SeparableMatchingEstim](https://github.com/PaulineCorblet/SeparableMatchingEstim) package in Julia!
