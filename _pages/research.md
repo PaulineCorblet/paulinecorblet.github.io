@@ -12,7 +12,7 @@ author_profile: true
 **Repeated Matching Games: an Empirical Framework** With Jeremy Fox and Alfred Galichon, *R&R Econometrica*, 
 <!-- [NBER Working Paper 34352](https://www.nber.org/papers/w34352) [Arxiv](https://urldefense.proofpoint.com/v2/url?u=http-3A__arxiv.org_abs_2510.02737&d=DwIBaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=Uuq84L5qrCzjIkr897kGKPURHU3TTNapqENssxQZ5fo&m=cq5w6REVrPBXm9uoXh29qCfk2bW1vvMo0VoTAhrvriucpxTvyPO2kKIBNeqoP_Tj&s=x7dUN0UtTrPyQfRY2uvc8eIQ-EJ3e1xctSz4xrvs-to&e=)  -->
 
-**Education, Sorting and Wages: A Structural Matching Approach**,
+**Education, Sorting and Wages: A Structural Matching Approach**, *R&R Quantitative Economics*
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5396926) 
 
 <!-- <font size="3"> (previous title: Sorting and the Decreasing Education Wage Premium) </font> -->
@@ -27,6 +27,7 @@ author_profile: true
 <!-- This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French). -->
 
 **Late Bloomers? The Aggregate Implications of Getting Education Later in Life**, With Zsófia Bárány and Moshe Buchinsky,
+[**New Draft**](https://paulinecorblet.github.io/pdf/BaranyBuchinskyCorblet_latebloomers.pdf) 
 [CEPR Discussion Paper DP18579](https://cepr.org/publications/dp18579)
 [NBER Working Paper 31874](https://www.nber.org/papers/w31874)
 
