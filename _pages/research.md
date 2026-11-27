@@ -20,15 +20,15 @@ author_profile: true
 **Modeling Monospony on the Labor Market with Separable Matching Models**, With Arnaud Dupuy, *R&R Journal of Applied Econometricss*
 [IZA DP No. 17563](https://docs.iza.org/dp17563.pdf)
 
-**Higher-Educated Workers' Flattening Returns to Experience**, *R&R Journal of Human Capital*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246)
+**Higher-Educated Workers' Flattening Returns to Experience**, *R&R Journal of Human Capital* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018246)
 
 <!-- <font size="3"> This paper documents the labor-earning trajectories of young workers in France since the early 1990s. Wages at labor market entry increase overall, but the higher education graduates' wage growth flattens across cohorts. The paper proposes an equilibrium model of human capital accumulation over the life cycle in which a representative firm requires labor in two different occupations, routine and complex. The complex occupation allows faster human capital accumulation. Workers sort into occupations based on initial human capital and ability to learn. The model is estimated using observed wage moments and occupation sorting over thirty years. Estimation results highlight the role of the French higher education expansion of the 1990s and 2000s in causing occupational congestion, whereby the share of higher education graduates employed in routine occupations rose, flattening their wage profiles.  </font>     -->
 
 <!-- This project in conducted as part of a [CEREQ workgroup](https://www.cereq.fr/le-cereq-activites-scientifiques-groupes-de-travail-et-seminaires/groupe-dexploitation-generation) (in French). -->
 
 **Late Bloomers? The Aggregate Implications of Getting Education Later in Life**, With Zsófia Bárány and Moshe Buchinsky,
-[**New Draft**](https://paulinecorblet.github.io/pdf/BaranyBuchinskyCorblet_latebloomers.pdf) 
-[CEPR Discussion Paper DP18579](https://cepr.org/publications/dp18579)
+[New Draft](https://paulinecorblet.github.io/pdf/BaranyBuchinskyCorblet_latebloomers.pdf) 
+Previous versions: [CEPR Discussion Paper DP18579](https://cepr.org/publications/dp18579)
 [NBER Working Paper 31874](https://www.nber.org/papers/w31874)
 
 <!-- <font size="3">It is generally agreed upon that most individuals who acquire a college degree do so in their early 20s. Despite this consensus, we show that in the US from the 1930 birth cohort onwards a large fraction – around 20% – of college graduates obtained their degree after age 30. We explore the implications of this phenomenon. First, we show that these so called late bloomers have significantly contributed to
@@ -47,8 +47,8 @@ The data was kindly provided by the Instituto Nacional de Estatistica with the h
 
 ## Work in Progress ##
 
-Multi-sided Matching with Transfers: The Economics of Love and Labor, with Alejandro Robinson Cortes
+**Multi-sided Matching with Transfers: The Economics of Love and Labor**, with Alejandro Robinson Cortes
 
-The Muslim Wage Penalty, with Wifag Adnan and Dima ElHariri
+**The Muslim Wage Penalty**, with Wifag Adnan and Dima ElHariri
 
-Gender Differences in Promotion Rates, with Wifag Adnan, Bedoor AlShebli, and Shehryar Subhani
+**Gender Differences in Promotion Rates**, with Wifag Adnan, Bedoor AlShebli, and Shehryar Subhani
